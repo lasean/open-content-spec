@@ -14,14 +14,14 @@ The OCS format allows content creators to develop content that is agnostic to a 
 - 90-Second Video (1:1, 16:9)
 - Hero Image (1:1, 16:9) 
  
-# Books
+# Book
 
 - 3,000 Word Max (200-300 Word Chapters)
 - 5-Bullet Summary
 
-# Lesson (Course = 5-15 Lessons)
+# Lesson
 
-A lesson consists of a title, goal sentence and one or more of these pieces of content:
+A course is made up of 5-10 lessons.  A lesson consists of a title, goal sentence and one or more of these pieces of content:
 
 - Course Table of Contents
 - 300 Word Max Instructions
@@ -34,7 +34,7 @@ A lesson consists of a title, goal sentence and one or more of these pieces of c
 
 # Micro-Post
 
-- Up to 140-character message on a 1920x1080 or 1080x1080 image.
+- Up to 140-character message rendered as text or as an image (1080x1080, 1920x1080).
 
 # Trivia Set
 
