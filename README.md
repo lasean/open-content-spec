@@ -34,7 +34,7 @@ A course is made up of 5-10 lessons.  A lesson consists of a title, goal sentenc
 
 # Micro-Post
 
-- Up to 140-character message rendered as text or as an image (1080x1080, 1920x1080).
+- Up to 140-character message rendered as text or as an image (1080x1080, 1920x1080).  Can be tagged and grouped in collections of three or more micro-posts. 
 
 # Trivia Set
 
